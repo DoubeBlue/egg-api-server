@@ -1,0 +1,290 @@
+{
+  "keys": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+  "middleware": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+      "port": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+      "user": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+      "password": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+      "database": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js"
+    },
+    "app": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+    "agent": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/config/config.default.js",
+    "default": {
+      "database": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "name": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "version": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "description": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "private": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "stop": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "dev": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "debug": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "test": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "cov": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "lint": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "ci": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "autod": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "url": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "license": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "strict": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "depth": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "env": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "level": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "logging": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "port": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/hjh/Library/Mobile Documents/com\\x7eapple~CloudDocs/B.B Studio/egg-api-server/node_modules/egg/config/config.default.js"
+}
